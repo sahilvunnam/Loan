@@ -2,11 +2,9 @@
 
 This project performs data analysis and classification modeling to predict loan approval status based on applicant financial and demographic information. Using Python libraries such as Pandas, Seaborn, and Scikit-Learn, we analyze various factors impacting loan approval, preprocess the dataset, and build machine learning models to classify loans as approved or rejected.
 
-Features
- - Data Cleaning and Transformation: Combines asset columns into "Movable" and "Immovable" assets and maps categorical features to numerical values.
+Features: Data Cleaning and Transformation: Combines asset columns into "Movable" and "Immovable" assets and maps categorical features to numerical values.
 
-Exploratory Data Analysis (EDA):
- - Visualizes distributions and relationships between key features like loan term, annual income, assets, and credit score, using histograms, box plots, and scatter plots.
+Exploratory Data Analysis (EDA): Visualizes distributions and relationships between key features like loan term, annual income, assets, and credit score, using histograms, box plots, and scatter plots.
 
 Correlation Analysis: Examines feature correlations and their impact on loan approval.
 
